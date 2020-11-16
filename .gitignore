@@ -1,0 +1,20 @@
+# Mac system files
+.DS_store
+
+# Node_modules folder
+node_modules
+
+# All text files
+*.txt
+
+# Files related to API keys
+.env
+
+# pickle files
+*.pkl
+
+# Jupyter
+**/.ipynb_checkpoints
+
+# Python
+__pycache__
